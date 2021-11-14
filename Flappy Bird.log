@@ -1,0 +1,29 @@
+﻿  Game.cpp
+C:\Users\edoar\Flappy Bird\Game.cpp(176,56): warning C4244: 'argomento': conversione da 'T' a 'float'. Possibile perdita di dati.
+          with
+          [
+              T=unsigned int
+          ]
+  Origine.cpp
+  Player.cpp
+  Tubi.cpp
+C:\Users\edoar\Flappy Bird\Tubi.cpp(63,21): warning C4244: 'inizializzazione': conversione da 'T' a 'float'. Possibile perdita di dati.
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\edoar\Flappy Bird\Tubi.cpp(72,38): warning C4244: 'argomento': conversione da 'T' a 'float'. Possibile perdita di dati.
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\edoar\Flappy Bird\Tubi.cpp(73,38): warning C4244: 'argomento': conversione da 'T' a 'float'. Possibile perdita di dati.
+          with
+          [
+              T=unsigned int
+          ]
+  Generazione codice in corso...
+  Previous IPDB not found, fall back to full compilation.
+  All 212 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generazione codice terminata
+  Flappy Bird.vcxproj -> C:\Users\edoar\Flappy Bird\x64\Release\Flappy Bird.exe
